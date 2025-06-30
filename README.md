@@ -29,7 +29,7 @@ A modern full-stack real-time chat application using MERN stack, Socket.io, Zust
 
 ---
 
-## 🧠 Environment Variables
+## 🧠 Setup .env file
 
 Create a `.env` file in your `backend` directory:
 
